@@ -1,0 +1,18 @@
+.h1 {
+    color: blue;
+}
+.ul {
+    list-style: none;
+
+    margin-right: 2vw;
+    padding-left: 0.1vw;
+    border: black solid 2px;
+    width: 70px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3vh;
+    padding-left: 1vw;
+    border-bottom: black solid 2px;
+}
